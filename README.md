@@ -1,8 +1,9 @@
 ### Hi there, I am Lucas Lisbôa and I'm building my page with some front-end projects 👋
 
-- 🔭 I’m looking for jobs
-- 🌱 I’m currently learning reactJS
 - 😄 Pronouns: He/His
+- 🔭 I’m looking for jobs
+- 🌱 I’m currently finishing the Take Blip bootcamp at DIO
+
 <!-- - ⚡ Fun fact:  -->
 
  <div align="center">
