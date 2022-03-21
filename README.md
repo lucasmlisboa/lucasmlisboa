@@ -1,4 +1,4 @@
-### Hi there, I am Lucas Lisbôa and I'm building my page with some front-end projects 👋
+### Hi, I am Lucas Lisbôa and I'm building my page with some front-end projects 👋
 
 <!-- - <div> <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://iconape.com/bandeira-brasil-logo-logo-icon-svg-png.html"> </div> -->
 
