@@ -1,8 +1,9 @@
 ### Hi there, I am Lucas Lisbôa and I'm building my page with some front-end projects 👋
 
+<!-- - <div> <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://iconape.com/bandeira-brasil-logo-logo-icon-svg-png.html"> </div> -->
+
+-  &#x1F1E7;&#x1F1F7; I'm a Brazilian guy
 - 😄 Pronouns: He/His
-- 🔭 I’m looking for jobs
-- 🌱 I’m currently finishing the Take Blip bootcamp at DIO
 
 <!-- - ⚡ Fun fact:  -->
 
