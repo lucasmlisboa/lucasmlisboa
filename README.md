@@ -1,8 +1,10 @@
-### Hi, I am Lucas Lisbôa and I'm building my page with some front-end projects 👋
+### Hi, my name is Lucas Lisbôa, I'm 26 years old and I'm graduated in System development Analysis and in love with frontend. Here you can see some of my projects, be welcome!!! 😊
 
-<!-- - <div> <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://iconape.com/bandeira-brasil-logo-logo-icon-svg-png.html"> </div> -->
+<div>
+ <img src="https://rondonia.ro.gov.br/wp-content/uploads/2020/09/Bandeira-Nacionalsímbolo-maior-da-Pátria-Brasileira-Foto-Divulgação.jpg">
+ </div>
 
-- 🕺🏽  I'm a Brazilian guy
+- 🕺🏽 I am a Brazilian guy
 - 😄 Pronouns: He/His
 
 <!-- - ⚡ Fun fact:  -->
