@@ -7,6 +7,8 @@
 - 🕺🏽 I am a Brazilian guy
 - 😄 Pronouns: He/His
 
+ <h2> STATUS:  reviewing javascript and making some resumes to upload her </h2>
+
 <!-- - ⚡ Fun fact:  -->
 
  <div align="center">
