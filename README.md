@@ -1,4 +1,4 @@
-### Hi, my name is Lucas Lisbôa, I'm 26 years old and I'm graduated in System development Analysis and in love with frontend. Here you can see some of my projects, be welcome!!! 😊
+### Hi, my name is Lucas Lisbôa, I am 26 years old and I have a degree in Systems Analysis and Development. I like cool designs and code. Here you can see some of my projects, welcome!! 😊
 
 <div>
  <img src="https://rondonia.ro.gov.br/wp-content/uploads/2020/09/Bandeira-Nacionalsímbolo-maior-da-Pátria-Brasileira-Foto-Divulgação.jpg"  width="10%">
