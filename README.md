@@ -26,7 +26,7 @@ My name is Lucas Lisbôa, I'm Brazilian, I'm 26 years old and I have a degree in
 </div> -->
  
 
- ###
+ ##
  
  <div> 
    <a href = "mailto:lucasmlisboa32@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
