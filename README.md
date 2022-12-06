@@ -1,11 +1,11 @@
-<h1> - Hiii, welcome to my github!! 😃 </h1> 
+<h1> Welcome!! 😃 </h1> 
+<p> I like cool designs and code. Here you can see some of my projects </p>
 <!-- <img src="https://rondonia.ro.gov.br/wp-content/uploads/2020/09/Bandeira-Nacionalsímbolo-maior-da-Pátria-Brasileira-Foto-Divulgação.jpg"  width="5%"> -->
-My name is Lucas Lisbôa
-I'm Brazilian
-I'm 26 years old and I have a degree in Systems Analysis and Development. <br>
-<p> I like cool designs and code. Here you can see some of my projects 😊😊😊 </p>
-
-- Pronouns: He/His 
+Lucas Lisbôa <br>
+Brazilian <br>
+26 years old <br>
+Systems Analysis and Development. <br>
+Pronouns: He/His 
 
 <!--  <h2> STATUS:  reviewing javascript and making some resumes to upload her </h2> -->
 
