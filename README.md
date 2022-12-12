@@ -1,6 +1,13 @@
 
 # 💫 About Me:
-<p> FRONTEND DEVELOPER </p><br><Lucas Lisbôa> <br><br>Systems Analyst and Developer <br><br>Brazilian <br><br>26 years old <br><br><br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+<p> FRONTEND DEVELOPER </p>
+- Lucas Lisbôa <br>
+- Systems Analyst and Developer <br>
+- Brazilian <br>
+- 26 years old <br>
+🌱 I’m currently learning <br>
+💬 Ask me about<br>
+⚡ Fun fact 
 
 
 ## 🌐 Socials:
@@ -37,6 +44,6 @@
    <a href = "mailto:lucasmlisboa32@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucasmlisboa/?locale=en_US" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  </div>
-
+-->
 
  
