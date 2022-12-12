@@ -5,9 +5,9 @@
 - Systems Analyst and Developer <br>
 - Brazilian <br>
 - 26 years old <br>
-🌱 I’m currently learning <br>
-💬 Ask me about<br>
-⚡ Fun fact 
+<!-- I’m currently learning <br>
+ Ask me about 💬 <br>
+ Fun fact ⚡ -->
 
 
 ## 🌐 Socials:
