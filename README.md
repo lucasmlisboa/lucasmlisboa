@@ -1,34 +1,37 @@
-<h1> Welcome!! 😃 </h1> 
-<p> I like cool designs and code. Here you can see some of my projects </p>
-<!-- <img src="https://rondonia.ro.gov.br/wp-content/uploads/2020/09/Bandeira-Nacionalsímbolo-maior-da-Pátria-Brasileira-Foto-Divulgação.jpg"  width="5%"> -->
-Lucas Lisbôa <br>
-Brazilian <br>
-26 years old <br>
-Systems Analysis and Development. <br>
-Pronouns: He/His 
 
-<!--  <h2> STATUS:  reviewing javascript and making some resumes to upload her </h2> -->
+# 💫 About Me:
+<p> FRONTEND DEVELOPER </p><br><Lucas Lisbôa> <br><br>Systems Analyst and Developer <br><br>Brazilian <br><br>26 years old <br><br><br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
-<!-- - ⚡ Fun fact:  -->
 
- <div align="center">
-  <a href="https://github.com/lucasmlisboa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasmlisboa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmlisboa&layout=compact&langs_count=7&theme=dark"/>
-</div>
- 
-<!--  <h3>Main Techs</h3>
-<div style="display: inline_block"><br> -->
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/lucasmlisboa/) 
+
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=lucasmlisboa&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=lucasmlisboa&theme=blueberry&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmlisboa&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=lucasmlisboa&theme=dark_dimmed&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 😂 Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
+
+---
+[![](https://visitcount.itsvg.in/api?id=lucasmlisboa&icon=0&color=0)](https://visitcount.itsvg.in)
+
+  ## 💰 You can help me by Donating
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/lucasmlisboa32@gmail.com) 
+
   
-<!--   <img align="center" alt="Lucas-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
- <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
- <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="">
-</div> -->
- 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
- ##
+<!-- ##
  
  <div> 
    <a href = "mailto:lucasmlisboa32@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
