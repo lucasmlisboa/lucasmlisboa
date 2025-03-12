@@ -1,13 +1,12 @@
 
 # 💫 About Me:
-<p> FRONTEND DEVELOPER </p>
+<p>🚀 Passionate Developer | Systems Analyst & Developer</p>
 - Lucas Lisbôa <br>
-- Systems Analyst and Developer <br>
-- Brazilian <br>
-- 29 years old <br>
-<!-- I’m currently learning <br>
- Ask me about 💬 <br>
- Fun fact ⚡ -->
+- 💻 Turning ideas into code and solutions into reality <br>
+- 🇧🇷 Brazilian <br>
+- 🎂 29 years old <br>
+- 🌱 Constantly learning and exploring new technologies <br>
+- 🔧 Building systems that make a difference <br>
 
 
 ## 🌐 Socials:
