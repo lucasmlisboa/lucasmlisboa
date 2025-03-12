@@ -26,7 +26,18 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+<div id="meme-container">
+  <img id="meme-image" width="512px"/>
+</div>
+
+<script>
+  fetch('https://random-memer.herokuapp.com/')
+    .then(response => response.json())
+    .then(data => {
+      document.getElementById('meme-image').src = data.url;
+    })
+    .catch(error => console.error('Erro ao carregar o meme:', error));
+</script>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=lucasmlisboa&icon=0&color=0)](https://visitcount.itsvg.in)
